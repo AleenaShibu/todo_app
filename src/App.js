@@ -28,7 +28,9 @@ render() {
     
     return (
         <div className="todo-list">
+
             {todoItems}
+            <h1>Todo List</h1>
         </div>
     )    
 }
